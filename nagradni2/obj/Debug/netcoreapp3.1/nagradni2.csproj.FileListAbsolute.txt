@@ -1,0 +1,28 @@
+C:\Users\PC\source\repos\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.exe
+C:\Users\PC\source\repos\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.deps.json
+C:\Users\PC\source\repos\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.runtimeconfig.json
+C:\Users\PC\source\repos\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.dll
+C:\Users\PC\source\repos\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.pdb
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.AssemblyInfo.cs
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.dll
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.pdb
+C:\Users\PC\source\repos\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.genruntimeconfig.cache
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.exe
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.deps.json
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.runtimeconfig.json
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.runtimeconfig.dev.json
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.dll
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\bin\Debug\netcoreapp3.1\nagradni2.pdb
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.csproj.AssemblyReference.cache
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.AssemblyInfoInputs.cache
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.AssemblyInfo.cs
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.csproj.CoreCompileInputs.cache
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.dll
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.pdb
+E:\Programs\Zasad nerazvrstano\nagradni2\nagradni2\obj\Debug\netcoreapp3.1\nagradni2.genruntimeconfig.cache
